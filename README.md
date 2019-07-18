@@ -23,9 +23,6 @@ This is an Event Booking App which used GraphQL Technology.
 
 ### How do I get set up Frontend? ###
 
-* navigate to frontend :-  cd projectDir/frontend
-* npm install
-* npm start
-* once npm start finished it will open your chrome broswer.
+* Check GraphQLReactJS for frontend.
 
 
