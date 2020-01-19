@@ -7,6 +7,10 @@ This is an Event Booking App which used GraphQL Technology.
 * MongoDB (mongodb and mongoose)
 * GraphQL (graphql and express-graphql)
 
+### Frontend Tech Stack ###
+* ReactJs
+* react-router-dom
+
 ### What is this repository for? ###
 
 * This Project used GraphQL, MongoDB and Express in backend to frontend ReactJS App.
@@ -24,5 +28,16 @@ This is an Event Booking App which used GraphQL Technology.
 ### How do I get set up Frontend? ###
 
 * Check GraphQLReactJS for frontend.
+* npm install
+* npm start
 
+### Screenshots
+
+![ScreenShot](/screenshots/1.png)
+
+![ScreenShot](/screenshots/2.png)
+
+![ScreenShot](/screenshots/3.png)
+
+![ScreenShot](/screenshots/4.png)
 
