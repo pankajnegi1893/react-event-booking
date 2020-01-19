@@ -25,19 +25,8 @@ This is an Event Booking App which used GraphQL Technology.
 * npm start
 * when server runs then in broswer :- http://localhost:8000/graphql
 
-### How do I get set up Frontend? ###
+Frontend Link :- ( [Link](https://github.com/pankajnegi1893/react-booking-frontend) )
 
-* Check GraphQLReactJS for frontend.
-* npm install
-* npm start
 
-### Screenshots
 
-![ScreenShot](/screenshots/1.png)
-
-![ScreenShot](/screenshots/2.png)
-
-![ScreenShot](/screenshots/3.png)
-
-![ScreenShot](/screenshots/4.png)
 
